@@ -94,7 +94,7 @@ password: hospital2026
 
 1. Go to http://localhost:8000/docs
 2. Click the Authorize button (lock icon)
-3. Enter: Bearer <your_token>
+3. Enter: <your_token>
 4. Click Authorize
 
 ### Step 4 - Now access all services through gateway
